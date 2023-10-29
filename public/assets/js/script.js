@@ -79,5 +79,3 @@ for (let i = 0; i < whishlistBtns.length; i++) {
 
 
 
-
-
